@@ -50,3 +50,28 @@ Sliver 백준 문제 풀이
 
 </div>
 </details>
+
+
+<details>
+<summary>백준 2689 : 달팽이는 올라가고 싶다.</summary>
+<div markdown="1">
+
+* 수 계산 문제
+
+</div>
+</details>
+
+
+<details>
+<summary>백준 10989 : 수 정렬하기3</summary>
+<div markdown="1">
+
+* 정렬 알고리즘 사용
+* 해결방법
+  * `Arrays.sort()`
+  * 카운팅 알고리즘
+
+
+
+</div>
+</details>
